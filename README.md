@@ -1,4 +1,5 @@
 # TimeConverter
+This is a developer tool. Which might save your time when you don't have active internet connection.
 This code is mac OS X application which can be used for converting the UNIX time stamp to Current time stamp in human readable format. This is to help developer for quick convertion of the unix time stamp to Human readable format.
 
 When you input 1525696016 as data then it will display time as 5:56 PM on May 07,2018 
